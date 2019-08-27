@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 29C010
+D Flash EEProm 512PP (TSOP 32) 3,3V
+K EEPROM FLASH 512KO
+$ENDCMP
+#
+#End Doc Library
